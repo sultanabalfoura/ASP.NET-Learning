@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sultana/Documents/Makeen/ASP.NET/Day02 solution/Day02/Day02.csproj": {}
+    "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/Day02 solution/Day02/Day02.csproj": {}
   },
   "projects": {
-    "/Users/sultana/Documents/Makeen/ASP.NET/Day02 solution/Day02/Day02.csproj": {
+    "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/Day02 solution/Day02/Day02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sultana/Documents/Makeen/ASP.NET/Day02 solution/Day02/Day02.csproj",
+        "projectUniqueName": "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/Day02 solution/Day02/Day02.csproj",
         "projectName": "Day02",
-        "projectPath": "/Users/sultana/Documents/Makeen/ASP.NET/Day02 solution/Day02/Day02.csproj",
+        "projectPath": "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/Day02 solution/Day02/Day02.csproj",
         "packagesPath": "/Users/sultana/.nuget/packages/",
-        "outputPath": "/Users/sultana/Documents/Makeen/ASP.NET/Day02 solution/Day02/obj/",
+        "outputPath": "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/Day02 solution/Day02/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sultana/.nuget/NuGet/NuGet.Config"
