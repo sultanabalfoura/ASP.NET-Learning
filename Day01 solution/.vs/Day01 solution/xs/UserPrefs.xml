@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{07029BE4-291C-4373-817B-A0301B1AE952}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day01/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Day01/Controllers/AboutController.cs" Line="14" Column="31" />
+      <File FileName="Day01/Views/About/Index.cshtml" Line="5" Column="13" />
+      <File FileName="Day01/Views/Shared/_Layout.cshtml" Line="42" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day01 solution" expanded="True">
+            <Node name="Day01" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="About" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Day01 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
