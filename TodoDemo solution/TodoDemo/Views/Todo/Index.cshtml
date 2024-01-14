@@ -1,0 +1,43 @@
+﻿@model List<Todo>
+
+    <div class="container">
+        <a asp-controller="Todo" asp-action="Create" class="btn btn-primary">Add Todo</a>
+
+    </div>
+<div class="">
+    @if (Model.Count > 0)
+        {
+    <table class="table table-hover table-striped">
+        <thead>
+            <tr>
+                <td>ID</td>
+                <td>Name</td>
+                <td>Date</td>
+                <td>Finished?</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+                {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.Name</td>
+                <td>@item.createdDate.Month</td>
+                <td>@item.isFinished</td>
+                <td>
+                    <a asp-controller="Todo" asp-action="Update" asp-route-id=@item.ID class="btn btn- btn-primary"> Update </a>
+                    <a asp-controller="Todo" asp-action="Delete" asp-route-id=@item.ID class="btn btn-primary">Delete</a>
+                </td>
+            </tr>
+                }
+
+
+        </tbody>
+    </table>            
+        }
+        else {
+            <div class=" mt-4 bg-light">
+                <h3> no Todos are avilable</h3>
+            </div>
+        }
+</div>

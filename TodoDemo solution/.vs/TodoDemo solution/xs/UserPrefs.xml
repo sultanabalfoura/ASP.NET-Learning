@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{81142B57-E6B4-4227-83F5-5DBF48AFCC70}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TodoDemo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoDemo/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="TodoDemo/Models/Todo.cs" />
+      <File FileName="TodoDemo/Program.cs" />
+      <File FileName="TodoDemo/Data/ApplicationDbContext.cs" />
+      <File FileName="TodoDemo/Controllers/TodoController.cs" />
+      <File FileName="TodoDemo/Views/Todo/Index.cshtml" />
+      <File FileName="TodoDemo/Views/Todo/Create.cshtml" Line="18" Column="1" />
+      <File FileName="TodoDemo/Views/Todo/Update.cshtml" />
+      <File FileName="TodoDemo/Views/Shared/_Layout.cshtml" Line="38" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoDemo solution" expanded="True">
+            <Node name="TodoDemo" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+                <Node name="Todo" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,17 @@
+﻿@model Todo
+
+
+<h3>Create new </h3>
+<form asp-action="Create">
+    <label asp-for="Name" class="form-label"></label>
+    <input asp-for="Name" class="form-control" />
+
+    <label asp-for="description" class="form-label"></label>
+    <input asp-for="description" class="form-control" />
+
+    <label asp-for="createdDate" class="form-label"></label>
+    <input asp-for="createdDate" class="form-control" />
+
+    <input type="submit" class="btn btn-primary" value="Add Todo"/>
+</form>
+
