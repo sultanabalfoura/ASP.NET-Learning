@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{FE90E311-404B-4A43-BADF-5DDA097E6960}|CompanySystem">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompanySystem/Program.cs">
+    <Files>
+      <File FileName="CompanySystem/Views/Department/Create.cshtml" Line="22" Column="1" />
+      <File FileName="CompanySystem/Views/Department/Update.cshtml" Line="20" Column="71" />
+      <File FileName="CompanySystem/Controllers/DepartmentController.cs" Line="69" Column="68" />
+      <File FileName="CompanySystem/Controllers/EmployeeController.cs" Line="68" Column="10" />
+      <File FileName="CompanySystem/Program.cs" Line="25" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CompanySystem Solution" expanded="True">
+            <Node name="CompanySystem.DAL">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="CompanySystem.PL">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Department" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CompanySystem.PL PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

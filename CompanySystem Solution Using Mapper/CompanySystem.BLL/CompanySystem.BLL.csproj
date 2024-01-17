@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Interface\" />
+    <None Remove="Repository\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interface\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CompanySystem.DAL\CompanySystem.DAL.csproj" />
+  </ItemGroup>
+</Project>
