@@ -1,0 +1,53 @@
+﻿@model List<Employee>
+
+<h2> Employee List </h2>
+<a asp-action="Create" class="btn btn-primary"> Add New Employee</a>
+<div asp-action="Index" class="mt-3 justify-content-center ">
+    <form>
+        <input type="text" name="search" class="" />
+        <input type="submit" class="btn btn-success" />
+    </form>
+</div>
+
+@if (Model.Count() > 0)
+{
+
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <td>Profile Photo</td>
+                <td>Name </td>
+                <td>Age </td>
+                <td> Email </td>
+                <td> City </td>
+                <td> Salary </td>
+                <td> Department </td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    
+                    <td><img src="~/File/Image" /></td>
+                    <td> @item.Name </td>
+                    <td> @item.age </td>
+                    <td> @item.Email </td>
+                    <td> @item.City </td>
+                    <td> @item.Salary </td>
+                    <td> @item.department.Name </td>
+                    <td> <a asp-controller="Employee" asp-action="Details" asp-route-id="@item.Id" class="btn btn-sucess"> Details  </a></td>
+                    <td> <a asp-controller="Employee" asp-action="Update" asp-route-id="@item.Id" class="btn btn-info"> Update  </a> </td>
+                    <td> <a asp-controller="Employee" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"> Delete  </a> </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="card bg-dark text-light">
+        <h2>  No Employee Available </h2>
+    </div>
+}

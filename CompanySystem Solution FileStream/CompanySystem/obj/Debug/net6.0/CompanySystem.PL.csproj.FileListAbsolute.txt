@@ -1,0 +1,211 @@
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.csproj.AssemblyReference.cache
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.AssemblyInfoInputs.cache
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.AssemblyInfo.cs
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.csproj.CoreCompileInputs.cache
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.MvcApplicationPartsAssemblyInfo.cache
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.RazorAssemblyInfo.cache
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.RazorAssemblyInfo.cs
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/appsettings.Development.json
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/appsettings.json
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.staticwebassets.runtime.json
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.deps.json
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.runtimeconfig.json
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.pdb
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Humanizer.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.BLL.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.DAL.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.BLL.pdb
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.DAL.pdb
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.CompanySystem.PL.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.build.CompanySystem.PL.props
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CompanySystem.PL.props
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CompanySystem.PL.props
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets.build.json
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets.development.json
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/scopedcss/bundle/CompanySystem.PL.styles.css
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/scopedcss/projectbundle/CompanySystem.PL.bundle.scp.css
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.csproj.CopyComplete
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/refint/CompanySystem.PL.dll
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.pdb
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.genruntimeconfig.cache
+/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/ref/CompanySystem.PL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/appsettings.Development.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/appsettings.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.staticwebassets.runtime.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.deps.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.runtimeconfig.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.pdb
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Humanizer.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.BLL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.DAL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.BLL.pdb
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/CompanySystem.DAL.pdb
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.csproj.AssemblyReference.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.AssemblyInfoInputs.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.AssemblyInfo.cs
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.csproj.CoreCompileInputs.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.MvcApplicationPartsAssemblyInfo.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.RazorAssemblyInfo.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.RazorAssemblyInfo.cs
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.CompanySystem.PL.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.build.CompanySystem.PL.props
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CompanySystem.PL.props
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CompanySystem.PL.props
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets.build.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/staticwebassets.development.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/scopedcss/bundle/CompanySystem.PL.styles.css
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/scopedcss/projectbundle/CompanySystem.PL.bundle.scp.css
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.csproj.CopyComplete
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/refint/CompanySystem.PL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.pdb
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.genruntimeconfig.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/Debug/net6.0/ref/CompanySystem.PL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/AutoMapper.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution/CompanySystem/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.csproj.AssemblyReference.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.AssemblyInfoInputs.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.AssemblyInfo.cs
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.csproj.CoreCompileInputs.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.MvcApplicationPartsAssemblyInfo.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.RazorAssemblyInfo.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.RazorAssemblyInfo.cs
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/refint/CompanySystem.PL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.pdb
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/appsettings.Development.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/appsettings.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.staticwebassets.runtime.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/CompanySystem.PL
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.deps.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.runtimeconfig.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/CompanySystem.PL.pdb
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/AutoMapper.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Humanizer.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/CompanySystem.BLL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/CompanySystem.DAL.dll
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/CompanySystem.BLL.pdb
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/bin/Debug/net6.0/CompanySystem.DAL.pdb
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.CompanySystem.PL.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.build.CompanySystem.PL.props
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CompanySystem.PL.props
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CompanySystem.PL.props
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/staticwebassets.build.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/staticwebassets.development.json
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/scopedcss/bundle/CompanySystem.PL.styles.css
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/scopedcss/projectbundle/CompanySystem.PL.bundle.scp.css
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.csproj.CopyComplete
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/CompanySystem.PL.genruntimeconfig.cache
+/Users/sultana/Documents/Makeen/ASP.NET-Learning/CompanySystem Solution FileStream/CompanySystem/obj/Debug/net6.0/ref/CompanySystem.PL.dll

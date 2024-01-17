@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{FE90E311-404B-4A43-BADF-5DDA097E6960}|CompanySystem">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompanySystem/Controllers/EmployeeController.cs">
+    <Files>
+      <File FileName="CompanySystem/Helper/DocumentConf.cs" Line="9" Column="1" />
+      <File FileName="CompanySystem/Controllers/EmployeeController.cs" Line="65" Column="10" />
+      <File FileName="CompanySystem/Models/DepartmentVM.cs" Line="1" Column="1" />
+      <File FileName="CompanySystem/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="CompanySystem/Models/EmployeeVM.cs" Line="1" Column="1" />
+      <File FileName="CompanySystem.DAL/Models/Department.cs" Line="1" Column="1" />
+      <File FileName="CompanySystem/Views/Employee/Update.cshtml" Line="6" Column="46" />
+      <File FileName="CompanySystem/Views/Employee/Delete.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CompanySystem Solution" expanded="True">
+            <Node name="CompanySystem.DAL" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="CompanySystem.PL">
+              <Node name="Controllers" expanded="True">
+                <Node name="EmployeeController.cs" selected="True" />
+              </Node>
+              <Node name="Helper" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Employee" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CompanySystem.PL PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
