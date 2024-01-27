@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sultana/Projects/CompanySystem Solution/CompanySystem.DAL/CompanySystem.DAL.csproj": {}
+    "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/CompanySystem Solution/CompanySystem.DAL/CompanySystem.DAL.csproj": {}
   },
   "projects": {
-    "/Users/sultana/Projects/CompanySystem Solution/CompanySystem.DAL/CompanySystem.DAL.csproj": {
+    "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/CompanySystem Solution/CompanySystem.DAL/CompanySystem.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sultana/Projects/CompanySystem Solution/CompanySystem.DAL/CompanySystem.DAL.csproj",
+        "projectUniqueName": "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/CompanySystem Solution/CompanySystem.DAL/CompanySystem.DAL.csproj",
         "projectName": "CompanySystem.DAL",
-        "projectPath": "/Users/sultana/Projects/CompanySystem Solution/CompanySystem.DAL/CompanySystem.DAL.csproj",
+        "projectPath": "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/CompanySystem Solution/CompanySystem.DAL/CompanySystem.DAL.csproj",
         "packagesPath": "/Users/sultana/.nuget/packages/",
-        "outputPath": "/Users/sultana/Projects/CompanySystem Solution/CompanySystem.DAL/obj/",
+        "outputPath": "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/CompanySystem Solution/CompanySystem.DAL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sultana/.nuget/NuGet/NuGet.Config"

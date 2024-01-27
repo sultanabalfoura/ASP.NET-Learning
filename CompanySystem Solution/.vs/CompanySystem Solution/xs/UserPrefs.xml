@@ -1,43 +1,39 @@
 ﻿<Properties StartupConfiguration="{FE90E311-404B-4A43-BADF-5DDA097E6960}|CompanySystem">
-  <MonoDevelop.Ide.ItemProperties.CompanySystem.PL PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="CompanySystem/Views/Employee/Create.cshtml">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompanySystem/Controllers/DepartmentController.cs">
     <Files>
-      <File FileName="CompanySystem/Views/Department/Create.cshtml" Line="26" Column="12" />
-      <File FileName="CompanySystem/Views/Department/Index.cshtml" Line="33" Column="2" />
-      <File FileName="CompanySystem/Controllers/EmployeeController.cs" Line="37" Column="1" />
-      <File FileName="CompanySystem/Views/Employee/Index.cshtml" Line="2" Column="1" />
-      <File FileName="CompanySystem/Views/Employee/Create.cshtml" Line="31" Column="90" />
-      <File FileName="CompanySystem.BLL/Repository/EmployeeRepository.cs" Line="21" Column="10" />
-      <File FileName="CompanySystem.BLL/Interface/IEmployeeRepository.cs" Line="9" Column="45" />
-      <File FileName="CompanySystem/Views/Shared/_Layout.cshtml" Line="36" Column="19" />
-      <File FileName="CompanySystem.DAL/Context/ApplicationDbContext.cs" Line="19" Column="1" />
-      <File FileName="CompanySystem/appsettings.json" Line="1" Column="1" />
-      <File FileName="CompanySystem.BLL/Repository/GenericRepository.cs" Line="24" Column="34" />
+      <File FileName="CompanySystem/Views/Department/Create.cshtml" />
+      <File FileName="CompanySystem/Views/Department/Index.cshtml" />
+      <File FileName="CompanySystem/Controllers/EmployeeController.cs" />
+      <File FileName="CompanySystem/Views/Employee/Index.cshtml" />
+      <File FileName="CompanySystem/Views/Employee/Create.cshtml" Line="31" Column="56" />
+      <File FileName="CompanySystem.BLL/Repository/EmployeeRepository.cs" />
+      <File FileName="CompanySystem.BLL/Interface/IEmployeeRepository.cs" />
+      <File FileName="CompanySystem/Views/Shared/_Layout.cshtml" />
+      <File FileName="CompanySystem.DAL/Context/ApplicationDbContext.cs" />
+      <File FileName="CompanySystem/appsettings.json" />
+      <File FileName="CompanySystem.BLL/Repository/GenericRepository.cs" />
       <File FileName="CompanySystem/Controllers/DepartmentController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CompanySystem Solution" expanded="True">
-            <Node name="CompanySystem.BLL" expanded="True">
+          <Node name="CompanySystem Solution">
+            <Node name="CompanySystem.BLL">
               <Node name="Interface" expanded="True" />
               <Node name="Repository" expanded="True" />
             </Node>
-            <Node name="CompanySystem.DAL" expanded="True">
+            <Node name="CompanySystem.DAL">
               <Node name="Context" expanded="True" />
               <Node name="Models" expanded="True" />
             </Node>
-            <Node name="CompanySystem.PL" expanded="True">
-              <Node name="Controllers" expanded="True" />
+            <Node name="CompanySystem.PL">
+              <Node name="Controllers" expanded="True">
+                <Node name="DepartmentController.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
-                <Node name="Employee" expanded="True">
-                  <Node name="Create.cshtml" selected="True" />
-                </Node>
+                <Node name="Department" expanded="True" />
+                <Node name="Employee" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
             </Node>
@@ -46,5 +42,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CompanySystem.PL PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

@@ -2048,11 +2048,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sultana/Projects/CompanySystem Solution/CompanySystem/CompanySystem.PL.csproj",
+      "projectUniqueName": "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/CompanySystem Solution/CompanySystem/CompanySystem.PL.csproj",
       "projectName": "CompanySystem.PL",
-      "projectPath": "/Users/sultana/Projects/CompanySystem Solution/CompanySystem/CompanySystem.PL.csproj",
+      "projectPath": "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/CompanySystem Solution/CompanySystem/CompanySystem.PL.csproj",
       "packagesPath": "/Users/sultana/.nuget/packages/",
-      "outputPath": "/Users/sultana/Projects/CompanySystem Solution/CompanySystem/obj/",
+      "outputPath": "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/CompanySystem Solution/CompanySystem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sultana/.nuget/NuGet/NuGet.Config"
@@ -2068,8 +2068,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/sultana/Projects/CompanySystem Solution/CompanySystem.BLL/CompanySystem.BLL.csproj": {
-              "projectPath": "/Users/sultana/Projects/CompanySystem Solution/CompanySystem.BLL/CompanySystem.BLL.csproj"
+            "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/CompanySystem Solution/CompanySystem.BLL/CompanySystem.BLL.csproj": {
+              "projectPath": "/Users/sultana/Documents/Makeen/test /ASP.NET-Learning/CompanySystem Solution/CompanySystem.BLL/CompanySystem.BLL.csproj"
             }
           }
         }
